@@ -36,6 +36,7 @@ nlp = es_core_news_sm.load()
 
 ### First modifications
 I created a new notebook called:" Preliminary_decisions"
+
 Before running this notebook, I have to first run the "review_GitHub" notebook, 2 CSV files will be created and later used in the " Preliminary_decisions" notebook.
 
 With " Preliminary_decisions" I'm trying to predict if a paper will be rejected or accepted for publication. 
