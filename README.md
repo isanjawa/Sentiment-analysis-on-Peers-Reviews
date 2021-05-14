@@ -45,3 +45,16 @@ I trained the model using "train_test_split" from Sklearn
 For vectorization and Feature Engineering, I used (TF-IDF)
 For model prediction, I calculated accuracy_score, precision_score, recall_score
 I used "classification_report()" to build a text report showing the main classification metrics.
+
+#### Last Notification
+The Notebooks have to be run in this order
+
+1- review_GitHub.ipynb 
+2- Spanish_sentiment&Preliminary_decisions.ipynb
+3- Reviews_sentiments.ipynb
+4- English_translation.ipynb
+5- Sentiment_on_English_Reviews.ipynb
+6- Classifier_models.ipynb
+
+
+I used IBM translator to translate the reviews from Spanish to English. For this you will need your own "Apikey" & "url"
